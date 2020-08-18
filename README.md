@@ -12,13 +12,13 @@ Eagle footprints including 3D models for the CC2530 based EByte E18-MS1-IPX and 
 ## E18-MS1PA1-IPX
 Eagle footprint including the 3D model for the CC2530+CC2592 EByte E18-MS1PA1-IPX module.
 
-![E18-MS1PA1-IPX-Symbol](images/E18-MS1PA1-IPX-symbol.png)
+![E18-MS1PA1-IPX-Symbol](images/e18-ms1pa1-ipx-symbol.png)
 ![E18-MS1PA1-IPX](images/E18-MS1PA1-IPX.jpg)
 
 ## CC2538 module
 Eagle footprint for the common chinese CC2538+CC2592 module. Thanks to [@uzsito](https://github.com/uzsito/CC2538-CC2592-kicad-component) for the 3D model, used from his KiCad library.
 
-![CC2538-Symbol](images/CC2538-symbol.png)
+![CC2538-Symbol](images/cc2538-symbol.png)
 ![CC2538-model](https://raw.githubusercontent.com/uzsito/CC2538-CC2592-kicad-component/master/graphics/render1.jpg)
 
 # Contributing

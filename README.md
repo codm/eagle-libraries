@@ -1,10 +1,10 @@
 # cod.m Eagle Libraries
-This is a loose collection cod.m GmbmH's self-made eagle libraries, licensed under GPL.
+This is a loose collection [cod.m GmbH](https://www.codm.de/)'s self-made eagle libraries, licensed under GPL.
 
 ## E18-MS1-IPX and E18-MS1-PCB
 Eagle footprints including 3D models for the CC2530 based EByte E18-MS1-IPX and E18-MS1-PCB modules.
 
-![E18-MS1-Symbol](images/E18-MS1-symbol.png)
+![E18-MS1-Symbol](images/e18-ms1-symbol.png)
 
 ![E18-MS1-IPX](images/E18-MS1-IPX.jpg)
 ![E18-MS1-PCB](images/E18-MS1-PCB.jpg)

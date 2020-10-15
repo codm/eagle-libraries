@@ -155,6 +155,62 @@
 <text x="11" y="8" size="1.016" layer="21" font="vector" align="center">E18-MS1PA1-IPX</text>
 <circle x="20.3" y="2.4" radius="0.781021875" width="0.127" layer="21"/>
 </package>
+<package name="E18-MS1PA2-PCB">
+<wire x1="0" y1="-8" x2="27" y2="-8" width="0.127" layer="51"/>
+<wire x1="27" y1="-8" x2="27" y2="8" width="0.127" layer="51"/>
+<wire x1="27" y1="8" x2="0" y2="8" width="0.127" layer="51"/>
+<wire x1="0" y1="8" x2="0" y2="-8" width="0.127" layer="51"/>
+<wire x1="2.27" y1="5.73" x2="2.27" y2="-5.73" width="0.127" layer="51"/>
+<wire x1="2.27" y1="-5.73" x2="19.73" y2="-5.73" width="0.127" layer="51"/>
+<wire x1="19.73" y1="-5.73" x2="19.73" y2="5.73" width="0.127" layer="51"/>
+<wire x1="19.73" y1="5.73" x2="2.27" y2="5.73" width="0.127" layer="51"/>
+<smd name="17" x="2.55" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="18" x="3.82" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="19" x="5.09" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="20" x="6.36" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="21" x="7.63" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="22" x="8.9" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="23" x="10.17" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="24" x="11.44" y="-8" dx="2" dy="0.8" layer="1" rot="R90"/>
+<smd name="16" x="0" y="-4.45" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="15" x="0" y="-3.18" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="14" x="0" y="-1.91" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="13" x="0" y="-0.64" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="12" x="0" y="0.63" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="11" x="0" y="1.9" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="10" x="0" y="3.17" dx="2" dy="0.8" layer="1" rot="R180"/>
+<smd name="8" x="2.55" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="7" x="3.82" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="6" x="5.09" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="5" x="6.36" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="4" x="7.63" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="3" x="8.9" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="2" x="10.17" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="1" x="11.44" y="8" dx="2" dy="0.8" layer="1" rot="R270"/>
+<smd name="9" x="0" y="4.44" dx="2" dy="0.8" layer="1" rot="R180"/>
+<wire x1="21.59" y1="4.7" x2="25.4" y2="4.7" width="0.127" layer="51"/>
+<wire x1="25.4" y1="4.7" x2="25.4" y2="2.16" width="0.127" layer="51"/>
+<wire x1="25.4" y1="2.16" x2="21.59" y2="2.16" width="0.127" layer="51"/>
+<wire x1="21.59" y1="2.16" x2="21.59" y2="-0.38" width="0.127" layer="51"/>
+<wire x1="21.59" y1="-0.38" x2="25.4" y2="-0.38" width="0.127" layer="51"/>
+<wire x1="25.4" y1="-0.38" x2="25.4" y2="-2.92" width="0.127" layer="51"/>
+<wire x1="25.4" y1="-2.92" x2="21.59" y2="-2.92" width="0.127" layer="51"/>
+<wire x1="25.4" y1="-2.92" x2="25.4" y2="-4.19" width="0.127" layer="51"/>
+<wire x1="25.4" y1="-4.19" x2="21.59" y2="-4.19" width="0.127" layer="51"/>
+<circle x="12.7" y="8.89" radius="0.127" width="0.254" layer="21"/>
+<rectangle x1="20" y1="-8" x2="27" y2="8" layer="41"/>
+<rectangle x1="20" y1="-8" x2="27" y2="8" layer="42"/>
+<rectangle x1="20" y1="-8" x2="27" y2="8" layer="43"/>
+<wire x1="0" y1="5.5" x2="0" y2="8" width="0.127" layer="21"/>
+<wire x1="0" y1="8" x2="1.5" y2="8" width="0.127" layer="21"/>
+<wire x1="12.5" y1="8" x2="27" y2="8" width="0.127" layer="21"/>
+<wire x1="27" y1="8" x2="27" y2="-8" width="0.127" layer="21"/>
+<wire x1="27" y1="-8" x2="12.5" y2="-8" width="0.127" layer="21"/>
+<wire x1="1.5" y1="-8" x2="0" y2="-8" width="0.127" layer="21"/>
+<wire x1="0" y1="-8" x2="0" y2="-5.5" width="0.127" layer="21"/>
+<text x="4" y="0.5" size="1.27" layer="25">&gt;NAME</text>
+<text x="4" y="-0.5" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="E18-MS1PA1-IPX" urn="urn:adsk.eagle:package:20060415/2" type="model">
@@ -195,6 +251,36 @@
 <pin name="RST" x="30.48" y="38.1" length="middle" rot="R180"/>
 <text x="14.478" y="14.478" size="1.778" layer="94" font="vector" align="center">E18-MS1PA1</text>
 </symbol>
+<symbol name="E18-MS1PA2-PCB/IPX">
+<wire x1="0" y1="0" x2="0" y2="50.8" width="0.254" layer="94"/>
+<wire x1="0" y1="50.8" x2="27.94" y2="50.8" width="0.254" layer="94"/>
+<wire x1="27.94" y1="50.8" x2="27.94" y2="0" width="0.254" layer="94"/>
+<wire x1="27.94" y1="0" x2="0" y2="0" width="0.254" layer="94"/>
+<pin name="GND" x="-5.08" y="2.54" length="middle"/>
+<pin name="VCC" x="-5.08" y="48.26" length="middle"/>
+<pin name="P2.2" x="33.02" y="2.54" length="middle" rot="R180"/>
+<pin name="P2.1" x="33.02" y="5.08" length="middle" rot="R180"/>
+<pin name="P2.0" x="33.02" y="7.62" length="middle" rot="R180"/>
+<pin name="P1.7" x="33.02" y="10.16" length="middle" rot="R180"/>
+<pin name="P1.6" x="33.02" y="12.7" length="middle" rot="R180"/>
+<pin name="P1.5" x="33.02" y="15.24" length="middle" rot="R180"/>
+<pin name="P1.4" x="33.02" y="17.78" length="middle" rot="R180"/>
+<pin name="P1.3" x="33.02" y="20.32" length="middle" rot="R180"/>
+<pin name="P1.2" x="33.02" y="22.86" length="middle" rot="R180"/>
+<pin name="P1.1" x="33.02" y="25.4" length="middle" rot="R180"/>
+<pin name="P1.0" x="33.02" y="27.94" length="middle" rot="R180"/>
+<pin name="P0.7" x="33.02" y="30.48" length="middle" rot="R180"/>
+<pin name="P0.6" x="33.02" y="33.02" length="middle" rot="R180"/>
+<pin name="P0.5" x="33.02" y="35.56" length="middle" rot="R180"/>
+<pin name="P0.4" x="33.02" y="38.1" length="middle" rot="R180"/>
+<pin name="P0.3" x="33.02" y="40.64" length="middle" rot="R180"/>
+<pin name="P0.2" x="33.02" y="43.18" length="middle" rot="R180"/>
+<pin name="P0.1" x="33.02" y="45.72" length="middle" rot="R180"/>
+<pin name="P0.0" x="33.02" y="48.26" length="middle" rot="R180"/>
+<pin name="RST" x="-5.08" y="25.4" length="middle"/>
+<text x="0" y="52.07" size="1.778" layer="95">&gt;NAME</text>
+<text x="0" y="-1.27" size="1.778" layer="96" align="top-left">&gt;VALUE</text>
+</symbol>
 </symbols>
 <devicesets>
 <deviceset name="E18-MS1PA1">
@@ -234,6 +320,44 @@
 </package3dinstances>
 <technologies>
 <technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="E18-MS1PA2" prefix="U" uservalue="yes">
+<gates>
+<gate name="G$1" symbol="E18-MS1PA2-PCB/IPX" x="0" y="7.62"/>
+</gates>
+<devices>
+<device name="-PCB" package="E18-MS1PA2-PCB">
+<connects>
+<connect gate="G$1" pin="GND" pad="1"/>
+<connect gate="G$1" pin="P0.0" pad="23"/>
+<connect gate="G$1" pin="P0.1" pad="22"/>
+<connect gate="G$1" pin="P0.2" pad="21"/>
+<connect gate="G$1" pin="P0.3" pad="20"/>
+<connect gate="G$1" pin="P0.4" pad="19"/>
+<connect gate="G$1" pin="P0.5" pad="18"/>
+<connect gate="G$1" pin="P0.6" pad="17"/>
+<connect gate="G$1" pin="P0.7" pad="16"/>
+<connect gate="G$1" pin="P1.0" pad="15"/>
+<connect gate="G$1" pin="P1.1" pad="14"/>
+<connect gate="G$1" pin="P1.2" pad="13"/>
+<connect gate="G$1" pin="P1.3" pad="12"/>
+<connect gate="G$1" pin="P1.4" pad="11"/>
+<connect gate="G$1" pin="P1.5" pad="10"/>
+<connect gate="G$1" pin="P1.6" pad="7"/>
+<connect gate="G$1" pin="P1.7" pad="6"/>
+<connect gate="G$1" pin="P2.0" pad="5"/>
+<connect gate="G$1" pin="P2.1" pad="4"/>
+<connect gate="G$1" pin="P2.2" pad="3"/>
+<connect gate="G$1" pin="RST" pad="24"/>
+<connect gate="G$1" pin="VCC" pad="2"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="VALUE" value="E18-MS1PA2-PCB" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>

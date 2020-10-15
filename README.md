@@ -15,6 +15,12 @@ Eagle footprint including the 3D model for the CC2530+CC2592 EByte E18-MS1PA1-IP
 ![E18-MS1PA1-IPX-Symbol](images/e18-ms1pa1-ipx-symbol.png)
 ![E18-MS1PA1-IPX](images/E18-MS1PA1-IPX.jpg)
 
+## E18-MS1PA2
+
+### E18-MS1PA2-PCB
+
+![E18-MS1PA2-PCB-Symbol](images/E18-MS1PA2-PCB-Symbol.png)
+
 ## CC2538 module
 Eagle footprint for the common chinese CC2538+CC2592 module. Thanks to [@uzsito](https://github.com/uzsito/CC2538-CC2592-kicad-component) for the 3D model, used from his KiCad library.
 
@@ -32,6 +38,7 @@ Eagle footprint for the common chinese CC2538+CC2592 module. Thanks to [@uzsito]
 # Credits
 * [Patrik Mayer](https://allgeek.de), [cod.m GmbH](https://www.codm.de)
 * [Mark Molnar](https://github.com/uzsito), 3D Model CC2538
+* [Simon Christmann](https://github.com/dersimn)
 
 
 # License

@@ -27,6 +27,14 @@ Eagle footprint for the common chinese CC2538+CC2592 module. Thanks to [@uzsito]
 ![CC2538-Symbol](images/cc2538-symbol.png)
 ![CC2538-model](https://raw.githubusercontent.com/uzsito/CC2538-CC2592-kicad-component/master/graphics/render1.jpg)
 
+## CC2652P2 module (RF-Star)
+Eagle footprint for the well known CC2652P2  module (RF-Star) from (e.g.) Duoweisi. 
+
+3D model can also be found on GrabCad: https://grabcad.com/library/rf-star-cc2652p-module-1
+
+![CC2538-Symbol](images/cc2652p2-eagle-symbol.png)
+![CC2538-model](images/cc2652p2-rf-star.png)
+
 # Contributing
 
 1. Fork it!

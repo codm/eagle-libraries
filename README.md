@@ -21,6 +21,17 @@ Eagle footprint including the 3D model for the CC2530+CC2592 EByte E18-MS1PA1-IP
 
 ![E18-MS1PA2-PCB-Symbol](images/E18-MS1PA2-PCB-Symbol.png)
 
+## E07-868MS10
+Should also be applicable for the E07-433MS10. These modules seem to be EOL, refer to the E07-xxxM10S modules.
+
+## E07-900M10S
+Eagle footprint including 3d model for ebyte's "new" E07-900M10S CC1101 PCB, which should be the succesor of the E07-8686MS10
+
+3D model on GrabCad: https://grabcad.com/library/rf-star-cc2652p-module-1
+
+![E07-900M10S-Symbol](images/e07-900m10s-symbol.png)
+![E07-900M10S-model](images/e07-900m10s.png)
+
 ## CC2538 module
 Eagle footprint for the common chinese CC2538+CC2592 module. Thanks to [@uzsito](https://github.com/uzsito/CC2538-CC2592-kicad-component) for the 3D model, used from his KiCad library.
 
@@ -32,8 +43,11 @@ Eagle footprint for the well known CC2652P2  module (RF-Star) from (e.g.) Duowei
 
 3D model can also be found on GrabCad: https://grabcad.com/library/rf-star-cc2652p-module-1
 
-![CC2538-Symbol](images/cc2652p2-eagle-symbol.png)
-![CC2538-model](images/cc2652p2-rf-star.png)
+![CC2652P2-Symbol](images/cc2652p2-eagle-symbol.png)
+![CC2652P2-model](images/cc2652p2-rf-star.png)
+
+
+
 
 # Contributing
 
